@@ -12,11 +12,59 @@ Here are some few facts about Java language:
 * Designed in 1995
 * Write once, run everywhere
 * Java Syntanx are similar to C/C++/C#
+* Java uses comments similar to C++: `//...This is a comment...//`, `/*...This is a comment...*/`, `/**...This is a comment...*/`.
 * Java programs filename extensions: `.java`, `.class`, `.jar`. 
 * Java is one of the popular programming language, most notable in backend server development
 * Java is open source and free.
 * Java is secure, fast, and powerful.
 * Great community support(about 9 millions developers)
-* Former called `Oak`.
+* Former called `Oak`, then changed to `Green`, then finally to `Java`.
+* Java programms can run on Windows, Mac, Linux, 
+
+
+## Uses of Java 
+
+Java is a cross-platform programming language. 
+
+It is used for building: 
+
+* Mobile applications(Android apps)
+* Desktop applications
+* Web applications
+* Web and applications servers
+* Gaming applications
+* Distributed applications
+* IoT(Internet of Things) Applications
+
+
+## Java Philisophies
+
+* Simple to learn, object oriented**, and familiar
+* Robust and secure
+* Portable and cross platform(architecture-neutral)
+* Fast execution
+* Interpretable(no need to compile first, just like Python)
+
+** *Object Oriented Programming(OOP) is a programming paradigm or style that organizes a software design around data(or objects) and well defined interfaces instead of functions and logics. Object is instance of clsss and it contains data and function.*
+
+*Java OOPs concepts are: Abstraction,encapsulation, inheritance, and polymorphism. The main goal of these concepts is to implement real world entities in programs.*
+
+
+Outline of the practices:
+
+### Intro to Java Basics
+
+* Hello World
+* Java Platforms: Java JVM, Java RE, JDK
+* Java Syntax Basics
+* Java Variables
+* Java Data Types
+* Java Strings
+* Java Operators
+* Java Booleans
+* Java Math
+* Java Control Structures: If..Else, Switch, While Loop, For Loop, Break/Continue
+* Java Arrays
+* Java Input and Output
 
 
