@@ -1,12 +1,12 @@
 # Learning Java
 
 
-Java is a a high level, general purpose, class based, and powerful programming language that can run on many platforms that support Java without recompilation and hence the notion `Write Once, Run Everywhere(WORA)`. 
+Java is a a high level, general purpose, class based, and powerful programming language that can run all platforms that support Java without recompilation and hence the notion `Write Once, Run Everywhere(WORA)`. 
 
-Java programs are usually compiled to `bytecode` that ca run on any Java Virtual Machine(JVM) regardless of the underlyining platform. 
+Java programs are usually compiled to `bytecode` that ca run on any Java Virtual Machine(JVM) regardless of the underlyining platform/machine. 
 
 
-Here are some few facts about Java language: 
+***Here are some few facts about Java language:***
 
 * Designed by [James Gosling, a.k.a Dr. Java](https://en.wikipedia.org/wiki/James_Gosling) and currently owned by Oracle.
 * Designed in 1995
@@ -47,10 +47,10 @@ It is used for building:
 
 ** *Object Oriented Programming(OOP) is a programming paradigm or style that organizes a software design around data(or objects) and well defined interfaces instead of functions and logics. Object is instance of clsss and it contains data and function.*
 
-*Java OOPs concepts are: Abstraction,encapsulation, inheritance, and polymorphism. The main goal of these concepts is to implement real world entities in programs.*
+** *Java OOPs concepts are: Abstraction,encapsulation, inheritance, and polymorphism. The main goal of these concepts is to implement real world entities in programs.*
 
 
-Outline of the practices:
+## Learning Java - Outline
 
 ### 1. Intro to Java Basics
 
