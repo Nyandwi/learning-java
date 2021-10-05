@@ -19,7 +19,18 @@ Java programs are usually compiled to `bytecode` that ca run on any Java Virtual
 * Java is secure, fast, and powerful.
 * Great community support(about 9 millions developers)
 * Former called `Oak`, then changed to `Green`, then finally to `Java`.
-* Java programms can run on Windows, Mac, Linux, 
+* Java programms can run on Windows, Mac, Linux, Raspiberry pie...
+
+
+## Hello World 
+
+```
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+    }
+    }
+```
 
 
 ## Uses of Java 
