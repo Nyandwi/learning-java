@@ -52,7 +52,7 @@ It is used for building:
 
 Outline of the practices:
 
-### Intro to Java Basics
+### 1. Intro to Java Basics
 
 * Hello World
 * Java Platforms: Java JVM, Java RE, JDK
@@ -63,8 +63,34 @@ Outline of the practices:
 * Java Operators
 * Java Booleans
 * Java Math
-* Java Control Structures: If..Else, Switch, While Loop, For Loop, Break/Continue
 * Java Arrays
-* Java Input and Output
+* Java Control Structures: If..Else, Switch, While Loop, For Loop, Break/Continue
 
 
+### 2. Java Methods
+
+### 3. Java File Handling
+
+### 4. Java Exception Handling
+
+### 5. Java Regex
+
+### 6. Java Input/Output
+
+### 7. Code Examples
+
+
+## References: 
+
+* [Official Doc](https://docs.oracle.com/javase/tutorial/)
+* [W3 Schools](https://www.w3schools.com/java/default.asp)
+* [Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language)#Editions)
+* [Java Point](https://www.javatpoint.com/java-io)
+* [Programmiz](https://www.programiz.com/java-programming)
+
+
+## Online Compiles
+
+* [Programmiz Online Compiler](https://www.programiz.com/java-programming/online-compiler/)
+* [OneCOmpiler](https://onecompiler.com/java)
+* [OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
