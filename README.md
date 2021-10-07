@@ -67,7 +67,7 @@ It is used for building:
 ### 1. Intro to Java Basics
 
 * [Hello World](https://github.com/Nyandwi/learning-java/blob/main/java-basics/helloWorld.java)
-* Java Platforms: Java JVM, Java RE, JDK
+* [Java Platforms: Java JVM, Java RE, JDK](https://github.com/Nyandwi/learning-java/blob/main/java-basics/java-platforms.md)
 * Java Syntax Basics
 * Java Variables
 * Java Data Types
