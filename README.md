@@ -2,7 +2,7 @@
 
 *I am currently taking Java for mobile applications class. I am going to be using this repo as a reference for my learning and notes.* 
 
-Java is a a high level, general purpose, class based, and powerful programming language that can run all platforms that support Java without recompilation and hence the notion `Write Once, Run Everywhere(WORA)`. 
+Java is a high level, general purpose, class based, and powerful programming language that can run all platforms that support Java without recompilation and hence the notion `Write Once, Run Everywhere(WORA)`. 
 
 Java programs are usually compiled to `bytecode` that ca run on any Java Virtual Machine(JVM) regardless of the underlyining platform/machine. 
 
