@@ -9,6 +9,10 @@ public class Main {
   }
 }
 ```
+*OUTPUT*
+```
+Hello World
+``
 
 Here are some key notes about Java syntaxes:
 
@@ -18,5 +22,11 @@ Here are some key notes about Java syntaxes:
 * Java is case sensitive. `Main` is different to `main`. 
 * The name of the class name must be similar to the name of the file. 
 * The extension for the java files is `.java`, and so the name of the above hello world can be `Main.java`. 
-* 
+* Every Java program must have `main()` method. Here is what it looks like: 
 
+
+``
+public static void main(String[] args)
+```
+
+* Any code
