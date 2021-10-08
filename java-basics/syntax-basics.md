@@ -29,4 +29,25 @@ Here are some key notes about Java syntaxes:
 public static void main(String[] args)
 ```
 
-* Any code
+* Any statement inside the `main()` method must be executed. More on methods later. 
+* In our example, we used the statement `println()` to display `Hello World` on the screen.
+
+```
+public static void main(String[] args) {
+  System.out.println("Hello World");
+}
+```
+
+* The statement starts and ends with the curly braces `{statements...}`
+* Each statement must end with semicolon`(;)`. 
+* You can add comment by // or /*....*/
+
+
+```
+// This is a comment
+*/This is a comment and it will not be executed! */
+```
+
+That's it for Java basics. 
+
+You can learn more at[W3schools.com](https://www.w3schools.com/java/java_syntax.asp). 
