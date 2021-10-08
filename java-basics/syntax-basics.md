@@ -12,7 +12,7 @@ public class Main {
 *OUTPUT*
 ```
 Hello World
-``
+```
 
 Here are some key notes about Java syntaxes:
 
@@ -25,7 +25,7 @@ Here are some key notes about Java syntaxes:
 * Every Java program must have `main()` method. Here is what it looks like: 
 
 
-``
+```
 public static void main(String[] args)
 ```
 
@@ -40,7 +40,7 @@ public static void main(String[] args) {
 
 * The statement starts and ends with the curly braces `{statements...}`
 * Each statement must end with semicolon`(;)`. 
-* You can add comment by // or /*....*/
+* You can add comment by // or /* *....* */
 
 
 ```
@@ -48,6 +48,6 @@ public static void main(String[] args) {
 */This is a comment and it will not be executed! */
 ```
 
-That's it for Java basics. 
+That's it for Java syntax basics. Next, we will learn more about variables.
 
 You can learn more at[W3schools.com](https://www.w3schools.com/java/java_syntax.asp). 
