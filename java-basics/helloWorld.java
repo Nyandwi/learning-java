@@ -5,7 +5,7 @@
 
 // HELLO WORLD
 
-class helloWorld {
+class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!"); 
     }
@@ -18,7 +18,7 @@ class helloWorld {
 
 // HelloWorld is the name of the class and below is how the class is defined
 // The class name must be similar to the filename
-//class helloWorld {
+//class HelloWorld {
     // Statements
 //}
 
@@ -38,5 +38,5 @@ class helloWorld {
 /* This is a comment */
 // This is a comment
 // Every Java application must have a class definition that matches the filename
-// Every program start with the main method...this is not an option
+// Every program start with the main class method...this is not an option
 // The program execution starts from the main function
