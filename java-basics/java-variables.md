@@ -27,3 +27,21 @@ Generally, the type of variable can be:
 ```
 variable_type variable_name = value;
 ```
+Like we saw above, variable type can be a `String` or `int` or `float` or `boolean`. 
+
+Le's create a string variable.
+
+```
+String product = "Laptop"
+```
+
+We can also use `System.out.println(product)` to print the value of the variable. 
+
+```
+System.out.println(name)
+```
+
+*OUTPUT*
+```
+Laptop
+```
