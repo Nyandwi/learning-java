@@ -20,6 +20,23 @@ Generally, the type of variable can be:
 * `boolean` that stores binary values: `true` or `false`.
 
 
+### Java Identifiers
+
+Each variable in Java should have a name. Such name is called `identifier`. Identifier is a unique name given to a variable during variable definition. 
+
+For trivial stuffs, identifier or variable name can be a single letter such as `x`, but it's good to use descriptive names for code readability purpose like `age`, `sum`, etc...
+
+Here are the rules for variable names:
+
+* A variable name can contain letters, digits, underscores, and dollar signs
+* A variable name must begin with a letter...No integers at first. 
+* A variable name should start with lowercase letter and it can not contain a white space
+* A variable name can begin with `$` and `_` but it's not advised.
+* A variable name is case sensitive. `myVar` is different to `myvar`)
+* A variable name can not take reserved words or keywords. More on keywords later, but `int` and `String` are examples of keywords.
+
+
+
 ### Creating or Declaring a Variable
 
 ***Format***
