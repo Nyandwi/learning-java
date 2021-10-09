@@ -32,16 +32,48 @@ Like we saw above, variable type can be a `String` or `int` or `float` or `boole
 Le's create a string variable.
 
 ```
-String product = "Laptop"
+String product = "Laptop";
 ```
 
 We can also use `System.out.println(product)` to print the value of the variable. 
 
 ```
-System.out.println(name)
+System.out.println(product);
 ```
 
 *OUTPUT*
 ```
 Laptop
 ```
+
+We can also customize the println output
+```
+
+System.out.println("The name of the product is " + product);
+```
+
+*OUTPUT*
+```
+The name of the product is Laptop
+```
+
+In the above example, you can replace the `"The name of the product is " ` with any variable name but it must be a string type since you are adding it to the string. Same thing is true for integers. 
+
+```
+int x = 1;
+int y = 2;
+System.out.println(x + y); // Print the value of x + y
+```
+
+### Overwriting Variables and Final Variables
+
+A variable in Java can be overwritten. So if you defined any variable earlier, you can assign it again any value. The first value will be replaced with the new assigned value. 
+
+If you want to declare a variable that can't overwritten, you can use `final` keyword. Such variable defined with final keyword is immutable(ie. read only).
+
+```
+final int number = 10;
+// number is a constant/final variable. Changing it will cause error. You don't want that!
+number = 20; //ERROR
+```
+
