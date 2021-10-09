@@ -77,3 +77,18 @@ final int number = 10;
 number = 20; //ERROR
 ```
 
+So far, we have only declared integers and texts. We can also declare booleans or floats in the same way. 
+
+```
+boolean myBool = true;
+float decimalVal = 10.3;
+char letter = 'F';
+```
+
+You can also declare many variables at once.
+
+```
+int x = 5; y = 10; z = 45;
+```
+
+
