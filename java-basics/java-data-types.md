@@ -33,3 +33,33 @@ Below is a quick overview of the basic or primitive data types in Java.
 | `boolean`   | false        |  1 bit       | Stores true or false      |
 | `char`   | '\u0000'        |   2 bytes       | Stores a single character/letter or ASCII values      |
 | `double`   | 0.0d        |   8 bytes      | Stores fractional numbers. Sufficient for storing 15 decimal digits  |
+
+
+Here are some examples: 
+
+```
+int myNum = 100000; // integer or whole number
+char myLetter = 'F' // Character..Must be in single quote
+boolean myBool = true; // Boolean
+byte myByte = 100; // Byte
+short myNum = 5000; // Short
+long myNum = 15000000000L; // Long
+float floatNum = 5.4f; // Floating point number
+double myNum = 19.99d; // Double...Safe to use double than floats because it has precision of about 15 digits, the precision of float is 6 to 7 digits. 
+String message = "Hello, Sam"; // String is non primitive type....must be in double quote.
+```
+
+You can perform mathematical operations on numbers. More on operations later. 
+Below is how to declare a variable name with its appropriate type and assign it a value. 
+
+```
+char myLetter = 'A';
+boolean isJavaFun = true;
+System.out.println(myLetter); // OUTPUT: 'A'
+System.out.println(isJavaFun); // OUTPUT: true
+```
+
+References: 
+
+* [W3schools.com](https://www.w3schools.com/java/java_data_types.asp)
+* [javapoint.com](https://www.javatpoint.com/java-data-types)
