@@ -3,7 +3,7 @@
 
 Data types denotes the type of the data that can be stored in a given variable. 
 
-Every variable should be created before use, and should specify its type. That is the reason why Java is referred to as statically-typed programming language. 
+Every variable should be created before use, and should specify its type. That is the reason why Java is referred to as statically-typed programming language.  
 
 Take an example: 
 
@@ -16,6 +16,13 @@ In Java, there are two main types of data types:
 * Primitive data types that are: `byte`, `short`, `int`, `long`, `float`, `double`, `boolean`, `char`.
 * No primitive data types such as `String`, `Arrays`, `Classes`.
 
+Here are more differences between primitive and non primitive types: 
+
+* Primitive types are predefined. With the exception of `String`, Non primitive type are defined by the programmer.
+* A primitive type has always a value. Non-primitive types can be `null`.
+* A primitive type starts with a lowercase letter. Non-primitive types starts with an uppercase letter.
+* The size of a primitive type depends on the data type. Non-primitive types have all the same size.
+* Non-primitive types can be used to call methods to perform certain operations. Primitive types cannot.
 
 ### Primitive Data types
 
