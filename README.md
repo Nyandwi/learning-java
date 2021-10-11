@@ -70,7 +70,7 @@ It is used for building:
 * [Java Platforms: Java JVM, Java RE, JDK](https://github.com/Nyandwi/learning-java/blob/main/java-basics/java-platforms.md)
 * [Java Syntax Basics](https://github.com/Nyandwi/learning-java/blob/main/java-basics/syntax-basics.md)
 * [Java Variables](https://github.com/Nyandwi/learning-java/blob/main/java-basics/java-variables.md)
-* Java Data Types
+* [Java Data Types](https://github.com/Nyandwi/learning-java/blob/main/java-basics/java-data-types.md)
 * Java Strings
 * Java Operators
 * Java Booleans
