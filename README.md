@@ -1,6 +1,6 @@
 # Learning Java
 
-*I am currently taking Java for mobile applications class. I am going to be using this repo as a reference for my learning and notes.* 
+*I am currently taking Java for mobile applications class. I am going to be using this repo as a reference for my learning and notes.* I may also take it with [CS193p - Developing Applications for iOS using SwiftU](https://cs193p.sites.stanford.edu).
 
 Java is a high level, general purpose, class based, and powerful programming language that can run all platforms that support Java without recompilation and hence the notion `Write Once, Run Everywhere(WORA)`. 
 
