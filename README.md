@@ -71,7 +71,7 @@ It is used for building:
 * [Java Syntax Basics](https://github.com/Nyandwi/learning-java/blob/main/java-basics/syntax-basics.md)
 * [Java Variables](https://github.com/Nyandwi/learning-java/blob/main/java-basics/java-variables.md)
 * [Java Data Types](https://github.com/Nyandwi/learning-java/blob/main/java-basics/java-data-types.md)
-* Java Strings
+* [Java Strings](https://github.com/Nyandwi/learning-java/blob/main/java-basics/java-strings.md)
 * Java Operators
 * Java Booleans
 * Java Math
